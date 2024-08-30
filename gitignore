@@ -1,0 +1,21 @@
+# Python
+*.pyc
+__pycache__/
+
+# Virtual environment
+venv/
+env/
+ENV/
+
+# Docker
+*.log
+*.pid
+*.sqlite3
+*.db
+
+# Model files and checkpoints
+checkpoints/
+models/
+
+# Environment variables
+.env
